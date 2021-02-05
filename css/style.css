@@ -63,6 +63,20 @@ Copyright © All rights Reserved
     text-align: center;
 }
 
+.cta{
+    width: 100%;
+    height: auto;
+    background: rgb(255, 179, 179);
+    position: fixed;
+    bottom: 0;
+    z-index: 9999;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
 /* my custom */
 @media only screen and (max-width: 600px) {
 
